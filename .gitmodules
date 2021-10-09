@@ -8,3 +8,13 @@
 	url = https://github.com/certe-medical-epidemiology/certedata
 	shallow = true
 	registered = true
+[submodule "certemail"]
+	path = certemail
+	url = https://github.com/certe-medical-epidemiology/certemail
+	shallow = true
+	registered = true
+[submodule "certestyle"]
+	path = certestyle
+	url = https://github.com/certe-medical-epidemiology/certestyle
+	shallow = true
+	registered = true

@@ -1,5 +1,11 @@
 [
   {
     "package": "certedata"
+  },
+  {
+    "package": "certemail"
+  },
+  {
+    "package": "certestyle"
   }
 ]
