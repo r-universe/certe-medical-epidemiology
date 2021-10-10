@@ -18,3 +18,8 @@
 	url = https://github.com/certe-medical-epidemiology/certestyle
 	shallow = true
 	registered = true
+[submodule "AMR"]
+	path = AMR
+	url = https://github.com/msberends/AMR
+	shallow = true
+	registered = true

@@ -7,5 +7,9 @@
   },
   {
     "package": "certestyle"
+  },
+  {
+    "package": "AMR",
+    "oncran": true
   }
 ]
