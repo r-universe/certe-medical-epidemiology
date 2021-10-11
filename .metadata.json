@@ -9,6 +9,9 @@
     "package": "certestyle"
   },
   {
+    "package": "certetoolbox"
+  },
+  {
     "package": "AMR",
     "oncran": true
   }
