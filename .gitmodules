@@ -18,6 +18,16 @@
 	url = https://github.com/certe-medical-epidemiology/certestyle
 	shallow = true
 	registered = true
+[submodule "certedb"]
+	path = certedb
+	url = https://github.com/certe-medical-epidemiology/certedb
+	shallow = true
+	registered = true
+[submodule "certeprojects"]
+	path = certeprojects
+	url = https://github.com/certe-medical-epidemiology/certeprojects
+	shallow = true
+	registered = true
 [submodule "certetoolbox"]
 	path = certetoolbox
 	url = https://github.com/certe-medical-epidemiology/certetoolbox

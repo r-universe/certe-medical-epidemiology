@@ -9,6 +9,12 @@
     "package": "certestyle"
   },
   {
+    "package": "certedb"
+  },
+  {
+    "package": "certeprojects"
+  },
+  {
     "package": "certetoolbox"
   },
   {
