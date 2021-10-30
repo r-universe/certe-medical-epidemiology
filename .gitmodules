@@ -33,6 +33,11 @@
 	url = https://github.com/certe-medical-epidemiology/certetoolbox
 	shallow = true
 	registered = true
+[submodule "certeplot2"]
+	path = certeplot2
+	url = https://github.com/certe-medical-epidemiology/certeplot2
+	shallow = true
+	registered = true
 [submodule "AMR"]
 	path = AMR
 	url = https://github.com/msberends/AMR
