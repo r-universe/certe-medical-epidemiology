@@ -21,6 +21,9 @@
     "package": "certeplot2"
   },
   {
+    "package": "certestats"
+  },
+  {
     "package": "AMR",
     "oncran": true
   }
