@@ -1,0 +1,44 @@
+[
+  {
+    "package": "certedb",
+    "url": "https://github.com/certe-medical-epidemiology/certedb",
+    "via": ["certedata"],
+    "from": "certedata"
+  },
+  {
+    "package": "certemail",
+    "url": "https://github.com/certe-medical-epidemiology/certemail",
+    "via": ["certedata"],
+    "from": "certedata"
+  },
+  {
+    "package": "certeplot2",
+    "url": "https://github.com/certe-medical-epidemiology/certeplot2",
+    "via": ["certedata"],
+    "from": "certedata"
+  },
+  {
+    "package": "certeprojects",
+    "url": "https://github.com/certe-medical-epidemiology/certeprojects",
+    "via": ["certedata"],
+    "from": "certedata"
+  },
+  {
+    "package": "certestats",
+    "url": "https://github.com/certe-medical-epidemiology/certestats",
+    "via": ["certedata"],
+    "from": "certedata"
+  },
+  {
+    "package": "certestyle",
+    "url": "https://github.com/certe-medical-epidemiology/certestyle",
+    "via": ["certedata"],
+    "from": "certedata"
+  },
+  {
+    "package": "certetoolbox",
+    "url": "https://github.com/certe-medical-epidemiology/certetoolbox",
+    "via": ["certedata"],
+    "from": "certedata"
+  }
+]
