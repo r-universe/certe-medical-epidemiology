@@ -43,6 +43,11 @@
 	url = https://github.com/certe-medical-epidemiology/certestats
 	shallow = true
 	registered = true
+[submodule "certegis"]
+	path = certegis
+	url = https://github.com/certe-medical-epidemiology/certegis
+	shallow = true
+	registered = true
 [submodule "AMR"]
 	path = AMR
 	url = https://github.com/msberends/AMR

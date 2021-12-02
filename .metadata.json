@@ -24,6 +24,9 @@
     "package": "certestats"
   },
   {
+    "package": "certegis"
+  },
+  {
     "package": "AMR",
     "oncran": true
   }
