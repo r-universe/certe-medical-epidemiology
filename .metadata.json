@@ -27,6 +27,9 @@
     "package": "certegis"
   },
   {
+    "package": "certeapi"
+  },
+  {
     "package": "AMR",
     "oncran": true
   },
