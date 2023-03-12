@@ -28,13 +28,5 @@
   },
   {
     "package": "certeapi"
-  },
-  {
-    "package": "AMR",
-    "oncran": true
-  },
-  {
-    "package": "cleaner",
-    "oncran": true
   }
 ]

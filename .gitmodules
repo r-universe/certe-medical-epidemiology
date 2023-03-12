@@ -53,13 +53,3 @@
 	url = https://github.com/certe-medical-epidemiology/certeapi
 	shallow = true
 	registered = true
-[submodule "AMR"]
-	path = AMR
-	url = https://github.com/msberends/AMR
-	shallow = true
-	registered = true
-[submodule "cleaner"]
-	path = cleaner
-	url = https://github.com/msberends/cleaner
-	shallow = true
-	registered = true
