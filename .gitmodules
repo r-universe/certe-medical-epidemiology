@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/certe-medical-epidemiology/universe
-	shallow = true
 	branch = HEAD
 [submodule "certedata"]
 	path = certedata
 	url = https://github.com/certe-medical-epidemiology/certedata
-	shallow = true
-	registered = true
 [submodule "certemail"]
 	path = certemail
 	url = https://github.com/certe-medical-epidemiology/certemail
-	shallow = true
-	registered = true
 [submodule "certestyle"]
 	path = certestyle
 	url = https://github.com/certe-medical-epidemiology/certestyle
-	shallow = true
-	registered = true
 [submodule "certedb"]
 	path = certedb
 	url = https://github.com/certe-medical-epidemiology/certedb
-	shallow = true
-	registered = true
 [submodule "certeprojects"]
 	path = certeprojects
 	url = https://github.com/certe-medical-epidemiology/certeprojects
-	shallow = true
-	registered = true
 [submodule "certetoolbox"]
 	path = certetoolbox
 	url = https://github.com/certe-medical-epidemiology/certetoolbox
-	shallow = true
-	registered = true
 [submodule "certeplot2"]
 	path = certeplot2
 	url = https://github.com/certe-medical-epidemiology/certeplot2
-	shallow = true
-	registered = true
 [submodule "certestats"]
 	path = certestats
 	url = https://github.com/certe-medical-epidemiology/certestats
-	shallow = true
-	registered = true
 [submodule "certegis"]
 	path = certegis
 	url = https://github.com/certe-medical-epidemiology/certegis
-	shallow = true
-	registered = true
 [submodule "certeapi"]
 	path = certeapi
 	url = https://github.com/certe-medical-epidemiology/certeapi
-	shallow = true
-	registered = true
