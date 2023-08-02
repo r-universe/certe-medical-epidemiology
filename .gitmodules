@@ -2,33 +2,33 @@
 	path = .registry
 	url = https://github.com/certe-medical-epidemiology/universe
 	branch = HEAD
-[submodule "certedata"]
-	path = certedata
-	url = https://github.com/certe-medical-epidemiology/certedata
-[submodule "certemail"]
-	path = certemail
-	url = https://github.com/certe-medical-epidemiology/certemail
-[submodule "certestyle"]
-	path = certestyle
-	url = https://github.com/certe-medical-epidemiology/certestyle
-[submodule "certedb"]
-	path = certedb
-	url = https://github.com/certe-medical-epidemiology/certedb
-[submodule "certeprojects"]
-	path = certeprojects
-	url = https://github.com/certe-medical-epidemiology/certeprojects
-[submodule "certetoolbox"]
-	path = certetoolbox
-	url = https://github.com/certe-medical-epidemiology/certetoolbox
-[submodule "certeplot2"]
-	path = certeplot2
-	url = https://github.com/certe-medical-epidemiology/certeplot2
-[submodule "certestats"]
-	path = certestats
-	url = https://github.com/certe-medical-epidemiology/certestats
-[submodule "certegis"]
-	path = certegis
-	url = https://github.com/certe-medical-epidemiology/certegis
 [submodule "certeapi"]
 	path = certeapi
 	url = https://github.com/certe-medical-epidemiology/certeapi
+[submodule "certedata"]
+	path = certedata
+	url = https://github.com/certe-medical-epidemiology/certedata
+[submodule "certedb"]
+	path = certedb
+	url = https://github.com/certe-medical-epidemiology/certedb
+[submodule "certegis"]
+	path = certegis
+	url = https://github.com/certe-medical-epidemiology/certegis
+[submodule "certemail"]
+	path = certemail
+	url = https://github.com/certe-medical-epidemiology/certemail
+[submodule "certeplot2"]
+	path = certeplot2
+	url = https://github.com/certe-medical-epidemiology/certeplot2
+[submodule "certeprojects"]
+	path = certeprojects
+	url = https://github.com/certe-medical-epidemiology/certeprojects
+[submodule "certestats"]
+	path = certestats
+	url = https://github.com/certe-medical-epidemiology/certestats
+[submodule "certestyle"]
+	path = certestyle
+	url = https://github.com/certe-medical-epidemiology/certestyle
+[submodule "certetoolbox"]
+	path = certetoolbox
+	url = https://github.com/certe-medical-epidemiology/certetoolbox
