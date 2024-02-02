@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/certe-medical-epidemiology/universe
+	url = https://github.com/certe-medical-epidemiology/certe-medical-epidemiology.r-universe.dev
 	branch = HEAD
 [submodule "certeapi"]
 	path = certeapi
