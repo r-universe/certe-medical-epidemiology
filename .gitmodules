@@ -32,3 +32,6 @@
 [submodule "certetoolbox"]
 	path = certetoolbox
 	url = https://github.com/certe-medical-epidemiology/certetoolbox
+[submodule "plot2"]
+	path = plot2
+	url = https://github.com/msberends/plot2
