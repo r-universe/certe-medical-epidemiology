@@ -14,6 +14,9 @@
 [submodule "certegis"]
 	path = certegis
 	url = https://github.com/certe-medical-epidemiology/certegis
+[submodule "certellm"]
+	path = certellm
+	url = https://github.com/certe-medical-epidemiology/certellm
 [submodule "certemail"]
 	path = certemail
 	url = https://github.com/certe-medical-epidemiology/certemail
