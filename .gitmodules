@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/certe-medical-epidemiology/certe-medical-epidemiology.r-universe.dev
 	branch = HEAD
+[submodule "EpiSODIC"]
+	path = EpiSODIC
+	url = https://github.com/certe-medical-epidemiology/EpiSODIC
 [submodule "certeapi"]
 	path = certeapi
 	url = https://github.com/certe-medical-epidemiology/certeapi
